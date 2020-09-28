@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("hello, world");//test, branch1
+	printf("hello, world");//test
+	//add by b2
 	return 0;
 }

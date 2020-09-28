@@ -3,6 +3,6 @@
 int main()
 {
 	printf("hello, world");//test
-	//add by b2
+	//add by master
 	return 0;
 }
